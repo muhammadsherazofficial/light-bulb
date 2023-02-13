@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: black;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    background-color: chocolate;
+    padding: 20px;
+    border-radius: 50%;
+    border-color: coral;
+    border-width: 5px;
+    font-weight: 700;
+}
